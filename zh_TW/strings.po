@@ -57,7 +57,7 @@ msgid "Chores overview"
 msgstr "家事總覽"
 
 msgid "Batteries overview"
-msgstr "憑證總覽"
+msgstr "服務總覽"
 
 msgid "Purchase"
 msgstr "購買"
@@ -75,7 +75,7 @@ msgid "Chore tracking"
 msgstr "家事追蹤"
 
 msgid "Battery tracking"
-msgstr "憑證追蹤"
+msgstr "服務追蹤"
 
 msgid "Locations"
 msgstr "存放位置"
@@ -90,7 +90,7 @@ msgid "Chores"
 msgstr "家事"
 
 msgid "Batteries"
-msgstr "憑證"
+msgstr "服務"
 
 msgid "Chore"
 msgstr "家事"
@@ -102,7 +102,7 @@ msgid "Last tracked"
 msgstr "上次檢查"
 
 msgid "Battery"
-msgstr "憑證"
+msgstr "服務"
 
 msgid "Last charged"
 msgstr "上次購買"
@@ -157,7 +157,7 @@ msgid "Tracked count"
 msgstr "檢查次數"
 
 msgid "Battery overview"
-msgstr "憑證總覽"
+msgstr "服務總覽"
 
 msgid "Charge cycles count"
 msgstr "購買次數"
@@ -238,10 +238,10 @@ msgid "Used in"
 msgstr "使用於"
 
 msgid "Create battery"
-msgstr "增加憑證"
+msgstr "增加服務"
 
 msgid "Edit battery"
-msgstr "編輯憑證"
+msgstr "編輯服務"
 
 msgid "Edit chore"
 msgstr "編輯家事"
@@ -294,7 +294,7 @@ msgid "Invalid credentials, please try again"
 msgstr "帳號或密碼錯誤，請重試"
 
 msgid "Are you sure to delete battery \"%s\"?"
-msgstr "確定要刪除憑證「%s」嗎？"
+msgstr "確定要刪除服務「%s」嗎？"
 
 msgid "Yes"
 msgstr "是"
@@ -392,7 +392,7 @@ msgid "Tracked execution of chore %1$s on %2$s"
 msgstr "於 %2$s  檢查家務 %1$s 執行"
 
 msgid "Tracked charge cycle of battery %1$s on %2$s"
-msgstr "於 %2$s 檢查憑證 %1$s 購買狀況"
+msgstr "於 %2$s 檢查服務 %1$s 購買狀況"
 
 msgid "Consume all %s which are currently in stock"
 msgstr "消耗庫存中所有的 %s"
@@ -401,7 +401,7 @@ msgid "All"
 msgstr "全部"
 
 msgid "Track charge cycle of battery %s"
-msgstr "檢查憑證 %s 購買狀況"
+msgstr "檢查服務 %s 購買狀況"
 
 msgid "Track execution of chore %s"
 msgstr "追蹤執行雜務 %s"
@@ -422,7 +422,7 @@ msgid "You have to select a chore"
 msgstr "請選擇一件家事"
 
 msgid "You have to select a battery"
-msgstr "請選擇一個憑證"
+msgstr "請選擇一個服務"
 
 msgid "A name is required"
 msgstr "名稱為必填項目"
@@ -620,11 +620,11 @@ msgstr[0] "%s 件家事早該完成"
 
 msgid "%s battery is due to be charged"
 msgid_plural "%s batteries are due to be charged"
-msgstr[0] "%s 顆憑證需要購買"
+msgstr[0] "%s 顆服務需要購買"
 
 msgid "%s battery is overdue to be charged"
 msgid_plural "%s batteries are overdue to be charged"
-msgstr[0] "%s 顆憑證逾期未購買"
+msgstr[0] "%s 顆服務逾期未購買"
 
 msgid "in singular form"
 msgstr "的所有成分"
@@ -893,10 +893,10 @@ msgid "Undone on"
 msgstr "撤消"
 
 msgid "Batteries journal"
-msgstr "憑證日誌"
+msgstr "服務日誌"
 
 msgid "Filter by battery"
-msgstr "憑證過濾"
+msgstr "服務過濾"
 
 msgid "Undo charge cycle"
 msgstr "取消購買紀錄"
@@ -975,7 +975,7 @@ msgid "Chore due"
 msgstr "家務到期"
 
 msgid "Battery charge cycle due"
-msgstr "憑證購買週期到期"
+msgstr "服務購買週期到期"
 
 msgid "Show clock in header"
 msgstr "在標題中顯示時鐘"
@@ -1089,10 +1089,10 @@ msgid "Journal for this chore"
 msgstr "這項雜事日記"
 
 msgid "Show battery details"
-msgstr "顯示憑證詳情"
+msgstr "顯示服務詳情"
 
 msgid "Journal for this battery"
-msgstr "這個憑證的日誌"
+msgstr "這個服務的日誌"
 
 msgid "System info"
 msgstr "系統信息"
@@ -1133,7 +1133,7 @@ msgid "Chores settings"
 msgstr "雜務設置"
 
 msgid "Batteries settings"
-msgstr "憑證設定"
+msgstr "服務設定"
 
 msgid "Tasks settings"
 msgstr "任務設置"
@@ -1302,7 +1302,7 @@ msgid "Chores due soon days"
 msgstr "家務勞動即將到來"
 
 msgid "Batteries due to be charged soon days"
-msgstr "即將要購買的憑證"
+msgstr "即將要購買的服務"
 
 msgid "Tasks due soon days"
 msgstr "即將到期的任務"
